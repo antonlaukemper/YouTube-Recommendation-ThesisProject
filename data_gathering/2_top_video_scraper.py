@@ -25,12 +25,7 @@ def get_top_n_videos(driver, channelid, n):
     # if channel is deleted this simply returns an empty list
 
     driver.get('https://www.youtube.com/channel/' + channelid + '/videos?view=0&sort=p&flow=grid')
-    # src = driver.page_source
-    # #todo: this only works from germany. make this more general
-    # channel_is_deleted = re.search(r'Dieses Konto wurde aufgrund wiederholter', src)
-    # if channel_is_deleted:
-    #     print("channel deleted")
-    #     return []
+
 
     top_videos = driver.find_elements_by_xpath('//*[@id="video-title"]')
     if len(top_videos )==0:

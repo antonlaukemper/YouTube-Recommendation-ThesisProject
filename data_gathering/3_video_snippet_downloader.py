@@ -40,7 +40,7 @@ class VideoSnippetAPIScraper():
         return relevant_info
 
     def gather_info(self, videoId):
-        try: #AIzaSyBmeEN2lltj5ZeSeS6gaQTgEIgJTc59ppU
+        try:
             return self.getVideoSnippet(videoId)
         except errors.HttpError as http_error:
             if http_error.resp.get('content-type', '').startswith('application/json'):

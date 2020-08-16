@@ -1,0 +1,228 @@
+id;label;captions_pred;comments_pred;snippets_pred;title;related_channels_pred;subscriptions_pred;cross_comments_pred;predicted_label;probability;confidence_score
+UC-uP8fChoXf3FTHyttRRkUw;__label__political;1.000;0.999;1.000;desirae thinking;-0.095;-0.126;-0.148;__label__political;1.000;9.181
+UCbfYPyITQ-7l4upoX8nvctg;__label__non-political;0.150;0.259;0.203;two minute paper;-0.630;-0.126;-0.148;__label__non-political;0.001;-7.073
+UCzcn2eAUHZ2Ba3x7hZF6q2w;__label__non-political;-0.000;0.004;0.006;stay see;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.490
+UCZViJTyN0OXTTuPQ2mimNWw;__label__political;1.000;0.985;1.000;philosophyinsights;-0.095;-0.126;0.801;__label__political;1.000;10.863
+UCgpEN1mWQxivlZ9O6GuZbOw;__label__political;0.526;;0.865;mic;-0.095;0.385;-0.148;__label__political;0.997;5.693
+UC4g8s1ssMZVISgVf7BnnQeQ;__label__non-political;-0.000;0.009;0.026;melf;-0.095;-0.805;-0.148;__label__non-political;0.000;-10.440
+UCke1RK4MOxsaPMGyw19e7sQ;__label__non-political;0.067;0.040;0.015;sport legend;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.100
+UC4YM0NX86SgxJRf8y0lQ3gA;__label__political;0.993;0.623;0.991;messy elliott;3.479;3.807;-0.148;__label__political;1.000;12.871
+UCH1oRy1dINbMVp3UFWrKP0w;__label__political;0.149;0.534;0.427;good morning america;1.879;-0.126;-0.148;__label__non-political;0.164;-1.626
+UCNdW82WWvjQEF5tUWVXvdKg;__label__political;0.994;0.993;1.000;dose truth;4.974;-0.126;-0.148;__label__political;1.000;12.641
+UCT9lB1HNkTa41ws-G2tGwXw;__label__non-political;0.000;0.001;0.000;devanondeck;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.576
+UCwERP8ZAI10RtZIAPsZQDDw;__label__non-political;;0.015;0.026;sting;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.149
+UC7UiChjgT_LDKcr_8NEEbMA;__label__political;0.980;0.970;0.996;brainlet;3.452;-0.126;-0.148;__label__political;1.000;11.482
+UCIuK0g2IASC08v5jyVQh0Ig;__label__political;1.000;0.998;0.974;missing mark;-0.095;-0.126;-0.148;__label__political;1.000;8.771
+UCOzxaAZsqfXA9a3p0nosGZQ;__label__non-political;0.004;0.014;0.000;detail groove;-0.095;-0.429;-0.148;__label__non-political;0.000;-10.685
+UC7ttU9pzloWp5FbjfO_P78Q;__label__non-political;0.002;0.001;0.008;coco chinelo;-0.095;-1.735;-0.148;__label__non-political;0.000;-11.109
+UCGwD6FIVFso2IJQmFGgDNKA;__label__political;0.987;0.998;0.998;proud conservative;-0.095;4.432;-0.148;__label__political;1.000;11.008
+UCoj6RxIAQq8kmJme-5dnN0Q;__label__non-political;0.021;0.039;0.007;diy solar power prowse;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.374
+UCjo1uN-aM3rmBV46xj7l2KA;__label__political;0.996;0.997;0.998;john stossel;-0.095;-0.126;-0.148;__label__political;1.000;9.136
+UCFJNcE0iHj7P6dhp5iCZRLg;__label__political;0.993;0.989;0.853;learn liberty;6.636;-0.126;-0.148;__label__political;1.000;11.451
+UCfmX9fD7yKjPkgMJoOYqpzA;__label__non-political;;0.007;0.010;energy tech;-0.873;-0.126;-0.148;__label__non-political;0.000;-10.954
+UC0pCsHlEEmCfxllZSlRB2Og;__label__political;1.000;0.998;1.000;status coup;7.073;-0.126;-0.148;__label__political;1.000;14.105
+UCPZiqlNI3RLyF47QTdq93GQ;__label__political;0.907;0.840;0.874;uncovered;-0.313;0.670;-0.148;__label__political;0.999;6.969
+UCsIg9WMfxjZZvwROleiVsQg;__label__non-political;-0.000;0.045;0.087;steezyasfuck;-0.095;-0.126;-0.148;__label__non-political;0.000;-9.182
+UCVrK_pMRp_q8IelpfUCTGLQ;__label__political;0.970;0.996;0.258;turning point usa;-0.095;-0.126;-0.148;__label__non-political;0.066;-2.642
+UCUMXBAKJ-dtCAjbt2ZgdGjg;__label__non-political;0.002;0.008;0.010;charlie navalua;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.407
+UC0hVVwpx_zoLEuKI8bOgFdg;__label__political;1.000;1.000;0.998;numbersusa;-0.095;-0.126;-0.148;__label__political;1.000;9.162
+UC7tdFNggH_jwjJTDWqYelmA;__label__non-political;0.091;0.044;0.071;mmaweeklycom;-0.095;-0.126;-0.148;__label__non-political;0.000;-9.135
+UCE3yf1AcIlXdps2EYbq3lzw;__label__non-political;;0.703;0.040;tmzsports;-0.095;-0.213;-0.148;__label__non-political;0.000;-9.086
+UCt8FZvQlxhXRVNOWwr_0ZUQ;__label__non-political;;0.008;0.000;killer confidence;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.545
+UCWq53_f3zgMcWuE-XFKSpyQ;__label__political;0.967;0.973;0.996;townhall medium;4.776;-0.004;-0.148;__label__political;1.000;12.399
+UCxODjeUwZHk3p-7TU-IsDOA;__label__non-political;0.285;0.004;0.185;boxmining;-0.095;-0.126;-0.148;__label__non-political;0.001;-6.716
+UC0JB7TSe49lg56u6qH8y_MQ;__label__non-political;0.247;0.345;0.258;gdc;-0.095;-0.126;-0.148;__label__non-political;0.004;-5.453
+UC6d8gdVmOgimP9453Ee9miQ;__label__political;0.991;0.947;0.685;nephtali;-0.501;-0.126;-0.148;__label__political;0.979;3.865
+UCpimAnNpH_JQxDa0YMTwdnw;__label__political;0.951;0.998;0.655;highimpactvlogs;-0.095;-0.126;-0.148;__label__political;0.972;3.563
+UCl9s0VpZwQuvTCyZj_VtCwg;__label__political;0.973;0.971;1.000;sinatrasays;-0.095;-0.126;-0.148;__label__political;1.000;9.074
+UCrr7y8rEXb7_RiVniwvzk9w;__label__political;0.995;0.987;1.000;thought slime;7.293;-0.126;1.812;__label__political;1.000;17.725
+UCpU4j-LN_aibXA1gONvWzxw;__label__political;0.989;0.986;1.000;mike malloy show;-0.095;-0.126;-0.148;__label__political;1.000;9.139
+UCVhibwHk4WKw4leUt6JfRLg;__label__non-political;0.070;0.073;0.141;sportsnet;-0.095;-0.089;-0.148;__label__non-political;0.000;-8.062
+UC5pbXz0uKJ6nmUisyKYyZCA;__label__non-political;0.403;0.400;0.099;wessidelive;-0.095;-0.126;-0.148;__label__non-political;0.001;-7.425
+UC_nWw_CrJGhjV_bqdkuJcRw;__label__non-political;;0.021;0.000;pet arena;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.501
+UC6VzUf8LyXxOz2ZkQP8_uhw;__label__non-political;0.000;0.027;0.001;cat man chris;0.553;-0.400;-0.148;__label__non-political;0.000;-10.212
+UC9IEkprr46ScglWU79HF5qQ;__label__non-political;0.073;0.002;0.085;boeing;-0.095;-0.126;-0.148;__label__non-political;0.000;-9.002
+UCz-y9OLmILUM1HGCE4Ffbkw;__label__political;0.969;0.990;0.999;demirep;-0.095;-0.126;-0.148;__label__political;1.000;9.067
+UCcOHWtIkwRoBQt0VL2RNrpA;__label__non-political;0.001;0.003;0.007;joy;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.464
+UC7D1xOXB85kyH_qs3gTpe2g;__label__non-political;0.019;0.030;0.067;floridamademg;-0.095;-0.126;-0.148;__label__non-political;0.000;-9.434
+UCh9mnprK8vtFuHkHyl_ffCw;__label__political;0.999;0.997;1.000;praise folly;-0.095;0.967;0.616;__label__political;1.000;10.988
+UCkLXELm63_pH7L-r-548kig;__label__non-political;0.069;0.796;0.004;amazon;-0.095;-0.247;-0.148;__label__non-political;0.000;-9.819
+UC02NY8Q55HWVXKLrFpj_2QQ;__label__non-political;0.023;0.294;0.015;somersinalaska;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.071
+UCb_JYhqnSdEejiznUm3XNqQ;__label__non-political;0.743;0.207;0.308;ucla health;-0.095;-0.126;-0.148;__label__non-political;0.042;-3.127
+UCKEt1xKVBLuL175dkk8rqLg;__label__political;0.835;0.937;0.738;mouthy buddha;3.950;-0.126;-0.148;__label__political;0.999;7.240
+UC2yh-MfL2LamSVqb76fEPCg;__label__political;0.984;0.997;1.000;mauritian struggle;0.553;-0.126;-0.148;__label__political;1.000;9.570
+UCW_IYEEXOzFQIfCymI2cPVw;__label__political;0.901;-0.000;0.999;hella opinion buzzfeed news;4.267;-0.126;-0.148;__label__political;1.000;11.194
+UCE37328iVnqSj1OCrgrYd8w;__label__non-political;0.011;0.025;0.001;emzotic;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.517
+UCa1yUHQmV6Z0PpAUtfgNd9g;__label__non-political;0.319;0.248;0.192;john lewis partner;-0.095;-0.126;-0.148;__label__non-political;0.002;-6.335
+UCkXYznmArMELRxH_36uM1lQ;__label__political;0.953;0.984;1.000;whiterabbitradiotv;-0.095;-0.037;-0.148;__label__political;1.000;9.059
+UCyuAKnN3g2fZ7_R9irgEUZQ;__label__political;0.947;0.983;0.960;exploration william c fox;1.359;2.594;-0.148;__label__political;1.000;10.497
+UCSmxWfvW7XE7lX7YeJ5LBZw;__label__non-political;0.013;0.003;0.001;veterinary secret;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.522
+UCYlzFl9rmPqHrMUj6Oc7-QQ;__label__non-political;0.001;;0.013;dyches fam;-0.095;-2.207;-0.148;__label__non-political;0.000;-11.223
+UCGsF1XNO_FLgjQtO6RM461A;__label__non-political;;0.010;0.086;sharp production;-0.095;-0.126;-0.148;__label__non-political;0.000;-9.198
+UCixKX26_0NKfiofeVSpNpiA;__label__non-political;0.731;0.284;0.187;riveted;-0.095;-0.126;-0.148;__label__non-political;0.007;-5.028
+UC9z_z-3W43h1XsEMnMq-0HQ;__label__non-political;0.001;;0.009;sam tabor;-0.095;-1.492;-0.148;__label__non-political;0.000;-10.966
+UCACBeuyE5mBAf_eGWnBaXeg;__label__non-political;0.015;;0.143;meebles sporella;-0.095;-0.126;-0.148;__label__non-political;0.000;-8.269
+UCij5BjgH6WjDqOzB6UZZpjA;__label__political;0.991;0.995;0.970;bull brand;9.737;6.214;-0.148;__label__political;1.000;18.061
+UCexls6lVQMZT6aSfLPNTonA;__label__non-political;0.691;0.410;0.806;bonsai pop;-0.095;0.184;-0.148;__label__political;0.992;4.844
+UCFqrvac3eUlp_4MmhelAaDw;__label__political;0.970;0.225;0.864;socialist east;-0.095;-0.126;-0.148;__label__political;0.998;6.424
+UC8GAOCAJxBL4bExaUCvwL4Q;__label__political;0.982;0.996;1.000;dinesh dsouza;-0.095;-0.126;-0.148;__label__political;1.000;9.118
+UCsWnDtLWKEMJHKYCc9647yQ;__label__political;0.933;0.936;0.996;laura loomer;-0.095;-0.126;-0.148;__label__political;1.000;8.867
+UC95wGcV_4NOJP0NydNF3lVw;__label__non-political;0.002;0.000;0.000;valeria loren;-0.095;-0.638;-0.148;__label__non-political;0.000;-10.783
+UCMmusV3FZmMN6ajUUQ4h4GQ;__label__non-political;;0.005;0.021;blue stahli;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.167
+UC3zHga4guDC9lh9LA5GcV5A;__label__non-political;;0.203;0.029;liliac;-0.095;-0.126;-0.148;__label__non-political;0.000;-9.666
+UCXIJgqnII2ZOINSWNOGFThA;__label__political;0.866;0.947;1.000;fox news;1.654;-0.126;-0.148;__label__political;1.000;9.909
+UCCB3VjDm3eXYOXwuRGuiU2Q;__label__non-political;0.001;0.033;0.003;tj hall;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.506
+UCPPZoYsfoSekIpLcz9plX1Q;__label__political;0.991;0.997;1.000;hakim;10.721;-0.126;1.238;__label__political;1.000;19.053
+UCHfu1_XkAzDM68neUAQd3PQ;__label__non-political;-0.000;0.011;0.036;alex mtch;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.005
+UCwmkLFteWUodZ1V0hb5_M3A;__label__non-political;0.013;0.010;0.047;fasterproms;-0.095;-0.360;-0.148;__label__non-political;0.000;-9.882
+UCXpiSJ5BppRChMI2jyYXlKQ;__label__non-political;;0.002;0.005;daily village life;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.422
+UCTrecbx23AAYdmFHDkci0aQ;__label__political;1.000;0.985;1.000;undoomed;6.803;7.599;0.527;__label__political;1.000;18.317
+UCkJ1N-7g9Q6n7KnriGit-Ig;__label__political;0.998;0.999;0.998;ronpaullibertyreport;-0.095;-0.126;-0.148;__label__political;1.000;9.153
+UCvcEBQ0K3UsQ8bzWKHKQmbw;__label__non-political;0.242;0.312;0.043;struthless;-0.095;-0.126;-0.148;__label__non-political;0.000;-8.905
+UCIu2MDB-z4MD7r-GwYARhgA;__label__political;0.746;0.869;0.752;therabbithole;-0.095;4.427;-0.520;__label__political;0.996;5.563
+UCNjnX5zPFVO0uXEjW6VIrow;__label__non-political;0.030;0.004;0.287;u outsider;-0.095;-0.126;-0.148;__label__non-political;0.003;-5.947
+UCDhrSWLE8wQkWFtjMXTTaiQ;__label__non-political;0.003;0.005;0.007;extremeterraincom;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.459
+UCd7zlpSjvUuUwsQdqV3LF3w;__label__non-political;0.694;0.996;0.233;curiositystream;-0.095;-0.126;-0.148;__label__non-political;0.019;-3.955
+UC2vcjazcVurVmpn5svBRA-Q;__label__non-political;0.323;0.115;0.017;ftd fact;-0.095;-0.126;-0.148;__label__non-political;0.000;-9.165
+UCPGuorlvarThSlwJpyTHOmQ;__label__non-political;0.021;0.036;0.039;capcom fighter;-0.095;-0.126;-0.148;__label__non-political;0.000;-9.869
+UCEXR8pRTkE2vFeJePNe9UcQ;__label__political;0.993;0.975;0.996;grayzone;-0.095;-0.086;-0.148;__label__political;1.000;9.102
+UCXDvumKcfoqKYs1W_VKqLdA;__label__political;0.396;;0.968;fade black radio;-0.095;-0.126;-0.148;__label__political;0.998;6.472
+UCklLTAOBRj4DdxTazOzP_lA;__label__non-political;;0.068;0.073;yes funny;-0.095;-0.126;0.282;__label__non-political;0.000;-8.183
+UC9Tyxi96fEu0ho4mlxOEdOQ;__label__non-political;0.044;0.007;0.007;curtis judd;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.316
+UCEL5udLvhpEOG8Lc9O-xbmQ;__label__political;0.985;0.978;0.392;metokurist murdochian archiver;7.226;-0.126;-0.148;__label__political;0.989;4.535
+UC0AgVTYtD53HU6TfuIN8-dg;__label__non-political;0.034;0.006;0.008;john maxwell;-0.095;-2.995;-0.148;__label__non-political;0.000;-11.531
+UCpm2hok50tHldh63tc17lcA;__label__non-political;0.002;0.002;0.029;redkb;-2.430;-0.126;-0.148;__label__non-political;0.000;-11.723
+UC5ZLcTmaK7OSfsnw8oHJbNA;__label__non-political;0.017;0.003;-0.000;molly eskam;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.524
+UCdp8kJ2dDBMe48BdfE55vSg;__label__non-political;0.000;0.044;0.017;bruce wilson;-0.095;-2.102;-0.148;__label__non-political;0.000;-11.109
+UCtb3OOZwXGjwYMIXTu5zMKw;__label__political;0.882;0.918;0.996;armoured gregory;7.104;-0.126;1.548;__label__political;1.000;16.644
+UCo8fiE2-s0SZu6Onb8lNLMQ;__label__political;0.631;0.972;0.994;thescariestmovieever;-0.095;-0.126;-0.148;__label__political;1.000;7.848
+UCN-rORZV9ltEZTUTL8a4oaw;__label__non-political;;;0.019;kid toy channel;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.185
+UCzvoUDoDu-cKIb11rg4ODDQ;__label__political;0.795;0.972;0.747;holy koolaid;10.720;-0.126;-0.148;__label__political;1.000;11.918
+UCn8zNIfYAQNdrFRrr8oibKw;__label__political;0.838;0.888;0.794;vice;-0.760;0.533;-0.148;__label__political;0.994;5.132
+UCEE8w-v6Gg4j3ze3oX-urEw;__label__political;0.987;1.000;0.998;project veritas action;-0.095;-0.126;-0.148;__label__political;1.000;9.106
+UC2cGFgeCTc1MxNEzPNcxvaA;__label__non-political;0.701;0.049;0.059;chiseled adonis;-0.095;-0.126;-0.148;__label__non-political;0.001;-7.305
+UCBjBZmguQzn6WCYR7DQykLw;__label__political;0.463;0.634;0.769;ted fellow;1.527;-0.126;-0.148;__label__political;0.990;4.633
+UCM6EbmEFrTbrQ_31bUx5h3w;__label__political;0.967;0.985;0.998;corbett report extra;2.176;-0.126;-0.148;__label__political;1.000;10.602
+UC82NOEHfqeXOLT8gNJB1mFw;__label__non-political;0.000;0.022;0.013;aaronitmar;-0.095;-0.155;-0.148;__label__non-political;0.000;-10.368
+UCddX-H9xUwQH6jOOHuL2vYw;__label__non-political;0.001;0.055;0.103;hafu;-0.095;-0.126;-0.148;__label__non-political;0.000;-8.920
+UCDZpIDV3ZSkLwPCb0bpEkew;__label__non-political;0.012;0.066;0.189;duck commander;-0.095;-0.126;-0.148;__label__non-political;0.001;-7.516
+UCyF4GoMo_dAdy9jumHAIl7g;__label__non-political;;0.003;0.071;kafkaesque rider;-0.095;-0.962;-0.148;__label__non-political;0.000;-9.473
+UCfrlXVXz-pT9AmmDELhpyOw;__label__political;0.993;0.927;0.672;justin murphy;-0.095;1.430;-0.148;__label__political;0.990;4.580
+UC0uVZd8N7FfIZnPu0y7o95A;__label__political;0.953;0.999;0.529;reasontv;7.132;-0.126;-0.148;__label__political;0.999;6.555
+UCO4ebfxmnvAAEytkqew6dCQ;__label__non-political;0.019;0.258;0.126;jojospotlight;-0.095;-3.046;-0.148;__label__non-political;0.000;-9.575
+UCCT8a7d6S6RJUivBgNRsiYg;__label__political;0.983;0.998;1.000;three arrow;-0.095;-0.126;-0.148;__label__political;1.000;9.122
+UCdyFQ7e-jDK1dhAT0fpLAvg;__label__non-political;-0.000;0.023;0.000;cope tv;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.566
+UCsGg9JQ4X7u2A6gCEmtVRmw;__label__political;0.990;0.998;0.998;liberty hound;7.218;-0.126;-0.148;__label__political;1.000;14.152
+UCC3L8QaxqEGUiBC252GHy3w;__label__political;0.975;0.955;0.997;stefan molyneux;10.711;-0.126;-0.148;__label__political;1.000;16.459
+UCAyrKoW31y5UcsRjh2ItvxQ;__label__political;0.943;0.893;0.981;pursuit truth;-0.095;-0.126;-0.148;__label__political;1.000;8.628
+UC61qQBrHiNKprDXW5ZnLPyQ;__label__political;0.535;0.915;0.953;michelle malkin;-0.095;0.424;-0.148;__label__political;0.999;7.081
+UCPF2TnvBH88EKgmS-TAMM4w;__label__political;0.962;1.000;0.959;red star video;-0.095;1.075;-0.148;__label__political;1.000;8.906
+UCjSJq8eE73nCc9mtSMkNh6g;__label__political;0.848;0.990;0.950;let talk stuff;-0.095;-0.126;0.404;__label__political;1.000;8.865
+UCa_4DcdTB9QfK0LY9-7qWuQ;__label__non-political;0.006;0.081;0.013;abbavevo;-4.832;-0.532;-0.148;__label__non-political;0.000;-13.728
+UCsuKgiVb2KJ2sZdrrwoAqsA;__label__non-political;0.014;0.038;0.002;wattle;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.473
+UC7KZFVVnKjiCzkxWD-Qrakg;__label__political;0.901;0.994;0.591;highimpactflix;-0.095;-0.126;-0.148;__label__political;0.916;2.390
+UCZ1Ja2LrS9XKdAfRjYnJPEA;__label__non-political;;0.008;0.298;mystic pimp;-0.095;-0.126;-0.148;__label__non-political;0.006;-5.190
+UCpDMmWa_9V-Am08pLZd0_Jg;__label__non-political;;0.075;0.003;machine factory;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.417
+UCyoQK-mZXr2ws4C0nXGCH1w;__label__political;0.990;0.993;1.000;zero book;-0.095;1.649;0.213;__label__political;1.000;10.524
+UCXKjhxsfFQUqlNVQzLVnpEA;__label__political;0.881;0.506;0.511;fivethirtyeight;1.879;-0.126;-0.148;__label__political;0.890;2.089
+UCmb8hO2ilV9vRa8cilis88A;__label__political;0.961;0.990;0.946;thunderft;3.980;5.363;1.254;__label__political;1.000;15.767
+UCqMlQ1FCHvqxNxXG50GRk4A;__label__non-political;;0.005;0.004;joey mendez;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.507
+UC9OZkS1Mhl5UvKSiPrYqsxg;__label__non-political;0.080;0.018;0.000;wolfeyvgc;-0.095;-0.109;-0.148;__label__non-political;0.000;-10.290
+UCgRvm1yLFoaQKhmaTqXk9SA;__label__political;0.969;0.958;0.878;nowthis world;5.859;-0.126;-0.148;__label__political;1.000;11.221
+UCxWqlhmDlq4nQ0Jv5hD2wlw;__label__political;0.983;0.993;1.000;shuttershot;0.856;3.208;1.118;__label__political;1.000;13.417
+UCzFSNq-Q7QV6kBSw9zCoVXg;__label__political;0.683;0.961;0.927;know;-0.095;-0.126;0.960;__label__political;1.000;8.934
+UC7TqVO0i0cU_EgA6VCWhCvg;__label__non-political;0.014;0.013;0.022;demonology;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.182
+UCeLc4heXqG9dtL7jiPHMBfQ;__label__political;0.965;0.871;0.953;epoch news epoch time;1.140;0.002;-0.148;__label__political;1.000;9.152
+UCWGgsgoUQOGqID0XdECk5lA;__label__non-political;0.169;0.005;0.001;mirzoev;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.012
+UC6OKhj0EAcyLVu77AhbuEHw;__label__non-political;;0.052;0.063;sloplays;-0.095;-0.126;-0.148;__label__non-political;0.000;-8.929
+UC-i64EAeVzk7gxlLDvWQb3w;__label__non-political;0.222;0.101;0.046;active self protection extra;-0.095;-0.126;-0.148;__label__non-political;0.000;-9.057
+UC04KsGq3npibMCE9Td3mVDg;__label__political;0.418;0.672;0.599;cheddar;4.714;-0.126;-0.148;__label__political;0.982;4.017
+UCre2GibO9Vdb3C59VzDsFxQ;__label__political;0.151;0.509;0.000;mbestx;-0.095;-0.126;-0.148;__label__non-political;0.000;-9.745
+UC7TvL4GlQyMBLlUsTrN_C4Q;__label__political;0.991;0.993;1.000;corbettreport;0.219;-0.126;-0.148;__label__political;1.000;9.361
+UCqvXAiNyn8pd9SVPclWfJTg;__label__non-political;-0.000;;0.101;popeye friend official;-0.095;-0.126;-0.148;__label__non-political;0.000;-8.969
+UCfUj1e0vo2or9Yki6VIPkeQ;__label__non-political;;0.004;0.002;butter bean;-0.095;-0.833;-0.148;__label__non-political;0.000;-10.564
+UCTrjPBx2WY3wsd1OKmMQv8w;__label__political;0.998;0.987;0.977;tylerpreston;2.644;8.745;-0.148;__label__political;1.000;14.370
+UCuS5fmeEDpnW5JPMdRhGm7A;__label__non-political;0.004;0.003;0.006;making happen vlog;-0.095;-1.567;-0.148;__label__non-political;0.000;-11.067
+UC03Aa2kibKCWz8zL1P5YKFw;__label__non-political;;0.078;0.258;wtfu;-0.095;-0.126;-0.148;__label__non-political;0.003;-5.763
+UCliHpHuY_aIZ7pGWO9tUx_w;__label__political;0.999;0.999;0.999;zerofox given;-0.095;3.076;-0.148;__label__political;1.000;10.490
+UCdYBVZV5eDmQjJmNcGdQJuQ;__label__non-political;0.139;0.095;0.152;blackscape;-0.095;-0.126;-0.148;__label__non-political;0.000;-7.654
+UCsgWR55UyAiFarZYl1u1l9Q;__label__political;0.989;0.930;0.987;tomwoodstv;-0.018;-0.126;-0.148;__label__political;1.000;8.949
+UC1iFTPspSKcb4vb1N7czmRQ;__label__political;0.848;0.902;0.893;new school;-0.095;-0.126;1.174;__label__political;1.000;9.277
+UCN9WjlKBvjBIm3AWDXI1EUA;__label__political;0.722;0.945;0.883;earthfiles;-0.095;0.057;-0.148;__label__political;0.998;6.463
+UCsu6NM_ARGWzDwL1C9xEhqA;__label__political;0.997;0.867;0.961;tooltime;2.437;-0.126;-0.148;__label__political;1.000;10.212
+UCiNediqB-JC_TjbsB4hJuHA;__label__political;0.809;0.402;0.991;snark tank;3.431;-0.126;-0.148;__label__political;1.000;10.447
+UCuDpOMzD0CF_EJKrbfajtJQ;__label__non-political;0.002;0.001;0.005;glow princess;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.489
+UCmitI3k480YNXEw3aJG3nlg;__label__political;0.973;0.993;1.000;count dankula stream;-0.095;-0.126;-0.148;__label__political;1.000;9.093
+UCooTLkxcpnTNx6vfOovfBFA;__label__non-political;;0.005;0.005;fox soccer;-4.693;-0.126;-0.148;__label__non-political;0.000;-13.598
+UC178EmfQAV3OT-UpuO6WUMg;__label__non-political;0.001;;0.001;omar hana islamic cartoon kid;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.546
+UCy4y-P3oyDIEqHPacAc0m3Q;__label__non-political;0.044;0.150;0.048;alana arbucci;-0.095;-0.126;-0.148;__label__non-political;0.000;-9.576
+UCQIyqMWCdx1GBvbw_Yi6lEA;__label__non-political;0.001;0.005;0.018;aston martin red bull racing;-0.810;-0.670;-0.148;__label__non-political;0.000;-11.014
+UCdR9cxbK0yXLdOJO0H8AB3A;__label__non-political;;0.001;0.001;lenysea;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.508
+UCUtloyZ_Iu4BJekIqPLc_fQ;__label__political;0.983;0.995;1.000;angie speaks;-0.095;0.376;2.316;__label__political;1.000;13.721
+UCGaVdbSav8xWuFWTadK6loA;__label__political;0.294;0.154;0.036;vlogbrothers;0.580;-0.126;0.085;__label__non-political;0.000;-8.061
+UCVoij9_Y6YA6GxIvyBtWglw;__label__non-political;0.000;0.001;0.000;elissa victoria;-0.095;-2.275;-0.148;__label__non-political;0.000;-11.469
+UC5tEELgWBfKbA9fVPRzBzPQ;__label__political;0.998;0.998;0.652;coach red pill;-0.095;-0.126;-0.148;__label__political;0.975;3.672
+UCEF-9XhkdyFY0hMRUkmxXfQ;__label__non-political;;0.001;0.628;simply aviation;-0.095;-1.800;-0.148;__label__non-political;0.255;-1.074
+UC-WMwOzgFdvvGVLB1EZ-n-w;__label__non-political;0.000;0.007;0.007;sam pilgrim;-0.095;-2.801;-0.148;__label__non-political;0.000;-11.571
+UCug1cL7vmUvYooOjXyHjsxQ;__label__political;0.651;0.453;1.000;diamond silk viewer view;-0.095;-0.126;-0.148;__label__political;1.000;7.675
+UCiEHVhv0SBMpP75JbzJShqw;__label__non-political;0.064;0.034;0.818;lecture walter lewin make physic;-0.095;-0.126;-0.148;__label__political;0.930;2.588
+UC4jMJqpGO06dXXS9y3POTIA;__label__non-political;0.060;;0.002;lulu;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.343
+UCRWRClsBI3p9gnYO8UBst2g;__label__political;1.000;0.999;0.996;laura towler;-0.095;-0.126;-0.148;__label__political;1.000;9.128
+UCF47He8GtRaSHeTvvsyAOrw;__label__non-political;0.038;0.001;0.005;gadgetmatch;-2.783;-0.126;-0.148;__label__non-political;0.000;-12.230
+UCnsW9cC7pgHyQpXyY8FCIjQ;__label__non-political;;0.004;0.091;demonracer;-0.095;-0.521;-0.148;__label__non-political;0.000;-9.205
+UC5fHBGiBdRN5MWMHEGFcZNw;__label__political;0.999;0.819;0.995;high energy;-0.095;-0.126;-0.148;__label__political;1.000;8.979
+UCOBNx5Pdw7FZkh2oQR3i9SQ;__label__political;0.957;0.914;0.999;jesse lee peterson;2.184;-0.126;-0.148;__label__political;1.000;10.544
+UCSio3E7kYvPeHKhfuYZWriA;__label__political;0.982;0.995;0.995;prayingmedic;-0.095;0.061;-0.148;__label__political;1.000;9.129
+UC7Q4rvzJDbHeBHYk5rnvZeA;__label__political;1.000;0.998;0.998;humanist report;15.332;-0.126;1.174;__label__political;1.000;22.111
+UCaLn4FMU_Fp-LBcdbYgYWow;__label__political;0.996;0.998;1.000;tracey;-0.095;-0.126;0.213;__label__political;1.000;9.813
+UC7iRfg8pjqESIbvHbjmpM2w;__label__non-political;-0.000;0.115;0.002;nc animal channel;-2.584;-0.126;-0.148;__label__non-political;0.000;-12.187
+UCVSNOxehfALut52NbkfRBaA;__label__political;0.982;0.963;0.975;voa news;-0.095;-0.126;-0.148;__label__political;1.000;8.702
+UCShbS7L9rWrpVIXyl8tQhCA;__label__non-political;0.027;0.193;0.002;shakesauce;2.156;-0.126;-0.148;__label__non-political;0.000;-8.787
+UCLXo7UDZvByw2ixzpQCufnA;__label__political;0.389;0.811;0.880;vox;3.602;-0.126;-0.148;__label__political;1.000;7.683
+UCu5O6b1IynT40gGtn787A_g;__label__political;;0.380;0.232;getchan;0.661;-0.126;-0.148;__label__non-political;0.006;-5.175
+UCdZe3OmKYiIwyrLFEEbNwVw;__label__non-political;0.000;0.025;0.005;alexandr misko;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.480
+UCboCq-I4Q27KCsIagzdo3RA;__label__non-political;-0.000;0.001;0.157;jazzmir;-0.095;-0.109;-0.148;__label__non-political;0.000;-8.097
+UCVT4zKbm1VDdfKIG79sschA;__label__non-political;0.001;;0.016;charitybabe;-0.095;-0.272;-0.148;__label__non-political;0.000;-10.384
+UCVF8SAGEQnBA-yKM4iQNqfw;__label__political;0.999;0.998;0.996;riley j dennis;1.546;-0.126;-0.148;__label__political;1.000;10.253
+UC6am0tFqAQVqYwF2YV31zZQ;__label__non-political;0.693;0.529;0.471;jacob laukaitis;-0.095;-0.126;-0.148;__label__non-political;0.376;-0.506
+UCcrgJyI1bSysVE92HPpNNiw;__label__political;0.993;0.998;0.997;offensive;-0.095;9.448;1.338;__label__political;1.000;15.727
+UCvSev8QouLVn0l2r0zhR2GQ;__label__non-political;;0.015;0.052;erica campbell;-0.095;-1.620;-0.148;__label__non-political;0.000;-10.290
+UC0p5jTq6Xx_DosDFxVXnWaQ;__label__political;0.553;0.891;0.431;economist;-0.095;-0.126;-0.148;__label__non-political;0.206;-1.351
+UCWhRfxKSqHU8hjx7mbmKVxA;__label__non-political;0.207;0.021;0.021;cinema maxon;-0.095;-0.126;-0.148;__label__non-political;0.000;-9.554
+UCy6kyFxaMqGtpE3pQTflK8A;__label__political;0.999;1.000;0.959;real time bill maher;5.981;-0.126;-0.148;__label__political;1.000;12.705
+UCldfgbzNILYZA4dmDt4Cd6A;__label__political;0.998;0.999;1.000;secular talk;12.955;-0.126;-0.148;__label__political;1.000;18.146
+UCAv5r1wyqwU-imDLmvLo6Ew;__label__non-political;0.003;0.037;0.004;bifflewiffle;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.486
+UC7K0wNhrt6fQdTj9zQQwLtw;__label__political;0.912;0.999;0.990;josh bernstein show;-0.095;0.970;-0.148;__label__political;1.000;9.199
+UCD3KVjbb7aq2OiOffuungzw;__label__non-political;;0.003;0.004;darkcode;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.459
+UCwZFOYo5qFydgXSrN-50vhw;__label__non-political;;0.002;0.000;noman vlogs;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.565
+UCTERzzbGZopw5SXJJr0tPyQ;__label__political;0.992;0.587;0.996;darkantics;2.701;-0.126;1.921;__label__political;1.000;14.429
+UClt01z1wHHT7c5lKcU8pxRQ;__label__political;0.742;0.807;0.921;hbomberguy;-0.095;-0.126;-0.148;__label__political;0.999;6.964
+UCF9cWy6zaWsgdAy-kv2q4VQ;__label__non-political;0.204;0.310;0.029;audioholics;-3.934;-0.126;-0.148;__label__non-political;0.000;-11.890
+UCcqjjQk7BINIdc5X44aHzaA;__label__political;0.894;0.932;0.998;sara gonzales unfiltered;8.689;-0.126;-0.148;__label__political;1.000;14.797
+UCE5PGnLwbvfyz4SV9x9zEwA;__label__non-political;;0.002;0.002;dynmk;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.400
+UCbiEAICCX-lyat0IOUIbyCA;__label__political;1.000;0.995;0.995;fritz imperial;1.197;-0.126;-0.052;__label__political;1.000;10.159
+UC2LveOOc6xQkXsHAEIslcIA;__label__non-political;0.171;0.008;0.003;hegshot;-0.095;-0.704;-0.148;__label__non-political;0.000;-10.200
+UCeJGHnaPVxYr7z55VF4YmPg;__label__non-political;0.960;0.931;0.927;dr taylor marshall;-0.095;-0.126;-0.148;__label__political;1.000;7.859
+UC-3jIAlnQmbbVMV6gR7K8aQ;__label__political;0.462;0.971;1.000;majority report w sam seder;1.337;2.118;-0.148;__label__political;1.000;9.309
+UCTXe61yRpk81cIs1clU5EWA;__label__non-political;0.253;0.015;0.007;cryptic;-0.095;-0.126;-0.148;__label__non-political;0.000;-9.628
+UCO_Ro3UG5WPqwtRjzgBQugQ;__label__non-political;0.003;0.129;0.026;zack hample;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.079
+UCeaxf_xQYP0gai9tE7iok-A;__label__political;0.963;0.960;0.725;moore show;0.707;-1.124;-0.148;__label__political;0.992;4.822
+UCFgMZM_dDR8DjGaISeRHeHQ;__label__non-political;;0.034;0.003;world wild;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.447
+UCp3T5fUUJootTrVwGDdY6pw;__label__non-political;;0.008;-0.000;tech unboxing;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.493
+UCacDFHq7F2k8sAvR_D-nIWQ;__label__political;0.946;0.916;0.888;qronos;1.089;-0.126;-0.148;__label__political;1.000;7.993
+UC25HBOBYfc-scqCQcyYKVNw;__label__non-political;0.685;0.581;0.021;lifey;-0.095;-0.126;-0.148;__label__non-political;0.000;-7.614
+UCNDsC1oY_AbjEePTRjZIxJw;__label__non-political;0.001;0.000;0.000;simplified guitar;-0.095;-0.194;-0.148;__label__non-political;0.000;-10.604
+UCG5qGWdu8nIRZqJ_GgDwQ-w;__label__non-political;;0.012;0.000;premier league;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.506
+UC7kaw8NXcqb7jdRsRIHaswQ;__label__political;0.925;0.541;0.921;fowler show;8.395;-0.126;-0.148;__label__political;1.000;13.225
+UCiNCvGzwadWCZIzTUjoApRQ;__label__non-political;0.028;0.011;0.001;daniel marsh;-0.095;-0.126;-0.322;__label__non-political;0.000;-10.773
+UCGP7Obfm6Z1TFg_Pwx4ctxg;__label__political;0.998;0.990;1.000;abitofbritt;-0.095;-0.126;0.558;__label__political;1.000;10.429
+UCWhMAeDzqqsGA1ShNXcebcA;__label__non-political;0.002;0.000;0.010;jaelah majette;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.421
+UCMItGKKTQzBTnIcbEoO3XnA;__label__political;0.993;0.979;0.973;worldsapart;-0.095;-0.126;-0.148;__label__political;1.000;8.723
+UCn1bhOC69Z4TplynafVv7ng;__label__political;0.993;0.998;0.998;chrisiousity;-0.095;5.601;-0.148;__label__political;1.000;11.509
+UCVia_crjzJylRmGq7SHTiaw;__label__non-political;0.982;0.071;0.021;hearthstone;-0.095;-0.126;-0.148;__label__non-political;0.001;-6.962
+UCfYdm21R1-xRmHZl3RQtAZw;__label__non-political;0.001;0.001;0.008;taste trini;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.453
+UCXvMPCwaobXw6ZHTTlRMSow;__label__non-political;0.003;0.001;0.002;slim reshae;-0.095;-1.056;-0.148;__label__non-political;0.000;-10.921
+UCXbzirbkybMpRJ8TgidMeuQ;__label__non-political;-0.000;0.001;-0.000;funniest animal;-3.878;-0.126;-0.148;__label__non-political;0.000;-13.181
+UCdioHiFoafczK-2G0Y7UBZw;__label__non-political;0.162;0.099;0.470;fauquier ent;-0.095;-0.126;-0.148;__label__non-political;0.073;-2.542
+UCFr3sz2t3bDp6Cux08B93KQ;__label__non-political;0.490;0.840;0.018;wolters world;-0.775;-0.126;-0.148;__label__non-political;0.000;-8.604
+UCbGedJzEhohA3zVMv6EXGrw;__label__non-political;0.003;0.001;0.026;cooking claudia;-0.095;-0.126;-0.148;__label__non-political;0.000;-10.165
